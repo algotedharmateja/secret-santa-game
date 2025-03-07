@@ -1,0 +1,16 @@
+# Ignore Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+package-lock.json
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Ignore build files
+dist/
+coverage/
+
+# Ignore editor & system files
+.vscode/
+.DS_Store
