@@ -1,0 +1,1 @@
+module.exports.SecretSantaService = require("./secretSanta.service");
